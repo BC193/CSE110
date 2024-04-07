@@ -28,9 +28,10 @@
 ```
 git branch name
 git checkout name
-*edit code*
+edit code
 git add name 
 git commit -m  "message"
 git push --set-upstream origin name 
 ```
-[VERY IMPORTANT](CSE110/joke.md)
+
+[VERY IMPORTANT](joke.md)
