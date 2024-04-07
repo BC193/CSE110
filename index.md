@@ -1,8 +1,8 @@
 # Brandon Chung 
-![image of me](https://media.licdn.com/dms/image/D4E03AQFf9W4BCGViOQ/profile-displayphoto-shrink_400_400/0/1665185663961?e=1717632000&v=beta&t=U0uPMY9UUf9Ykug8fIx0_sOqsl5t2adfh78btjt4q10)
+!(https://media.licdn.com/dms/image/D4E03AQFf9W4BCGViOQ/profile-displayphoto-shrink_400_400/0/1665185663961?e=1717632000&v=beta&t=U0uPMY9UUf9Ykug8fIx0_sOqsl5t2adfh78btjt4q10)
 ## Hello! I am a **2nd year** *computer science student* at **UCSD**. Over the past two years I have taken various computer science courses but I am especially excited to take CSE110 for the practical experiences that I will be able to participate in! 
 
-## Here is the order of **CSE** classes I have taken:
+## Here is the order of **_CSE_ classes** I have taken:
 1. CSE 11
 2. CSE 12
 3. CSE 15L
@@ -23,7 +23,6 @@
 - [ ] Volleyball
 - [ ] Bowling
 
-
 ## Here is the procedure to use git and update a repository 
 > [Git Library](https://git-scm.com/doc)
 ```
@@ -34,4 +33,5 @@ git add name
 git commit -m  "message"
 git push --set-upstream origin name 
 ```
+
 [VERY IMPORTANT](joke.md)
